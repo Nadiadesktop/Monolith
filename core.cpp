@@ -24,7 +24,7 @@ void func2()
     }
 }
 
-//thread thr1(func1); //rthe
+//thread thr1(func1);
 //thread thr2(func2);
 
 int main()
